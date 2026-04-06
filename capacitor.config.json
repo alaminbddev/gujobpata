@@ -1,5 +1,11 @@
 {
-  "appId": "com.hauntedX.gujobpata",
+  "appId": "com.hauntedx.gujobpata",
   "appName": "Gujobpata",
-  "webDir": "www"
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://scirumorscanner.pro.bd",
+    "androidScheme": "https",
+    "cleartext": false
+  }
 }
