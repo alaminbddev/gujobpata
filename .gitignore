@@ -1,2 +1,59 @@
-# Google App Engine generated folder
+# =========================
+# Node.js dependencies
+# =========================
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Build output
+# =========================
+build/
+dist/
+.public/
+.svelte-kit/
+.vercel/
+.out/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Firebase / Google Cloud
+# =========================
+.firebase/
+.firebaserc
 appengine-generated/
+
+# =========================
+# Capacitor / Android
+# =========================
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+
+# =========================
+# Misc
+# =========================
+coverage/
+.tmp/
+.cache/
