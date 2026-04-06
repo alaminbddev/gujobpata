@@ -1,0 +1,25 @@
+{
+  "name": "gujobpata",
+  "version": "1.0.0",
+  "description": "A gujob app in bangla where people can post all gujob scan gujob and others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaminbddev/gujobpata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alaminbddev/gujobpata/issues"
+  },
+  "homepage": "https://github.com/alaminbddev/gujobpata#readme",
+  "dependencies": {
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0"
+  }
+}
