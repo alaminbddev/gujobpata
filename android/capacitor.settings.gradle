@@ -1,0 +1,5 @@
+rootProject.name = "android"
+
+include ':app'
+include ':capacitor-android'
+project(':capacitor-android').projectDir = file('../node_modules/@capacitor/android')
